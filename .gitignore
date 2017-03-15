@@ -1,0 +1,5 @@
+material/
+bin
+obj
+.vs
+*.suo
